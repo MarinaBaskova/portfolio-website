@@ -4993,6 +4993,11 @@ input, select, textarea {
 			object-position: right;
 		}
 
+/* Temporary hidden content */
+	.tempHidden {
+		display: none;
+	}
+
 /* Spotlight (style2) */
 
 	.spotlight.style2 {
